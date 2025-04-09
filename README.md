@@ -4,4 +4,4 @@ Data used for experimentation in the paper: "Automated Machine Learning for Text
 # Files
 D_tr_meta-features_train_part.txt is the file with the meta-features of the genetic group D_tr.
 
-D_ts_meta-features_train_part.txt is the file with the meta-features of the genetic group D_ts.
+D_ts_meta-features_train_part.txt is the file with the meta-features of the genetic group D_tst.
